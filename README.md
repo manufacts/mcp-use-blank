@@ -1,4 +1,4 @@
-# MCP Server built with mcp-use
+# MCP Server built with mcp-use (branch)
 
 This is an MCP server project bootstrapped with [`create-mcp-use-app`](https://mcp-use.com/docs/typescript/getting-started/quickstart).
 
